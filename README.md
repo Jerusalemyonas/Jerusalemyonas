@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerusalemyonas, 3rd year Computer engineering student
-- 👀 I’m interested in webdesign and game dev
+- 👀 I’m interested in web design and game dev
 - 🌱 I’m currently learning at AASTU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jerusalemyonas5@gmail.com
