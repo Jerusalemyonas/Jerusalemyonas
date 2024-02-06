@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jerusalemyonas, 3rd year Computer engineering student
-- 👀 I’m interested in web design and game dev
-- 🌱 I’m currently learning at AASTU
+- 👋 Hi, I’m Jerusalemyonas, am currently a freshman
+- 👀 I’m interested in programmming in general
+- 🌱 I’m currently learning at university of messina
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jerusalemyonas5@gmail.com
 
